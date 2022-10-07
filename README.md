@@ -5,8 +5,8 @@ TECHNOLOGY
 - Python
 - Django
 - HTML
--Bootstrap
--SQLite
+- Bootstrap
+- SQLite
 
 ADMIN PORTAL
 
@@ -53,5 +53,6 @@ Admin Offers and Discounts Page
 USER FACING // ONLINE STORE LAYOUT
 
 Select Your Items Page
+dynamic html5 
 
 ![user_facing](https://user-images.githubusercontent.com/66700598/194634082-877d0ce9-7857-4ea4-9bbc-f4a2d9f61cab.PNG)
